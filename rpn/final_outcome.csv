@@ -1,0 +1,31 @@
+Activity,Severity,Occurrence,Detection,RPN,Rank
+"Check skin for scratches or dents",5.00,7.00,9.00,315,1
+"Inspect rivets and joints",5.00,9.00,6.00,270,2
+"Inspect external antennas",4.00,6.00,7.00,168,3
+"Verify panel securement",9.00,4.00,3.00,108,4
+"Inspect fuselage for cracks",2.00,4.00,5.00,40,5
+"Canopy surface cracks or scratches",0.00,0.00,0.00,0,6
+"Inspect seals for wear",0.00,0.00,0.00,0,7
+"Check cockpit displays for clarity",0.00,0.00,0.00,0,8
+"Verify cockpit controls",0.00,0.00,0.00,0,9
+"Inspect ejection seat mechanisms",0.00,0.00,0.00,0,10
+"Inspect leading-edge surfaces",0.00,0.00,0.00,0,11
+"Check ailerons for cracks",0.00,0.00,0.00,0,12
+"Inspect flaps for wear",0.00,0.00,0.00,0,13
+"Verify wing-tip light functionality",0.00,0.00,0.00,0,14
+"Check tire pressure",0.00,0.00,0.00,0,15
+"Check tread wear",0.00,0.00,0.00,0,16
+"Inspect brake assembly for leaks",0.00,0.00,0.00,0,17
+"Verify landing gear struts",0.00,0.00,0.00,0,18
+"Inspect wheel hub integrity",0.00,0.00,0.00,0,19
+"Inspect engine inlet for FOD",0.00,0.00,0.00,0,20
+"Inspect exhaust nozzle condition",0.00,0.00,0.00,0,21
+"Check for fluid leaks (oil or fuel)",0.00,0.00,0.00,0,22
+"Inspect nacelle panels",0.00,0.00,0.00,0,23
+"Check weapon mounts for damage",0.00,0.00,0.00,0,24
+"Verify release system mechanisms",0.00,0.00,0.00,0,25
+"Inspect pitot-static tube",0.00,0.00,0.00,0,26
+"Verify external light operation",0.00,0.00,0.00,0,27
+"Inspect electrical harnesses",0.00,0.00,0.00,0,28
+"Check hydraulic lines for leaks",0.00,0.00,0.00,0,29
+"Inspect fuel tank caps or seals",0.00,0.00,0.00,0,30
